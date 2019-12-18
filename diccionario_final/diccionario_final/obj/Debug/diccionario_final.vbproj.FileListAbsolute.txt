@@ -1,0 +1,14 @@
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\bin\Debug\diccionario_final.exe.config
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\bin\Debug\diccionario_final.exe
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\bin\Debug\diccionario_final.pdb
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\bin\Debug\diccionario_final.xml
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.vbprojAssemblyReference.cache
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.Form1.resources
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.Form2.resources
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.Resources.resources
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.vbproj.GenerateResource.cache
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.exe
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.xml
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.pdb
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.Form3.resources
+C:\Users\israe\source\repos\diccionario_final\diccionario_final\obj\Debug\diccionario_final.Form4.resources
