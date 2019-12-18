@@ -1,0 +1,14 @@
+J:\Descargas\VISUAL 2019\Dicionario\Di\bin\Debug\Di.exe.config
+J:\Descargas\VISUAL 2019\Dicionario\Di\bin\Debug\Di.exe
+J:\Descargas\VISUAL 2019\Dicionario\Di\bin\Debug\Di.pdb
+J:\Descargas\VISUAL 2019\Dicionario\Di\bin\Debug\Di.xml
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Diccionario.vbprojAssemblyReference.cache
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.Form2.resources
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.Form3.resources
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.Form4.resources
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.Resources.resources
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Diccionario.vbproj.GenerateResource.cache
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.exe
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.xml
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.pdb
+J:\Descargas\VISUAL 2019\Dicionario\Di\obj\Debug\Di.Form1.resources

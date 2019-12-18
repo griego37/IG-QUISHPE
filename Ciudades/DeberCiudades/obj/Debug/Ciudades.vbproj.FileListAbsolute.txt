@@ -1,0 +1,11 @@
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\bin\Debug\DeberCiudades.exe.config
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\bin\Debug\DeberCiudades.exe
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\bin\Debug\DeberCiudades.pdb
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\bin\Debug\DeberCiudades.xml
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\obj\Debug\Ciudades.vbprojAssemblyReference.cache
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\obj\Debug\DeberCiudades.Form1.resources
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\obj\Debug\DeberCiudades.Resources.resources
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\obj\Debug\Ciudades.vbproj.GenerateResource.cache
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\obj\Debug\DeberCiudades.exe
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\obj\Debug\DeberCiudades.xml
+J:\Descargas\VISUAL 2019\Ciudades\DeberCiudades\obj\Debug\DeberCiudades.pdb

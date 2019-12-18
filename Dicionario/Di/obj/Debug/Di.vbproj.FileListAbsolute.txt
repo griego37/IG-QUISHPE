@@ -1,0 +1,28 @@
+C:\Users\Bryan\source\repos\Di\Di\bin\Debug\Di.exe.config
+C:\Users\Bryan\source\repos\Di\Di\bin\Debug\Di.exe
+C:\Users\Bryan\source\repos\Di\Di\bin\Debug\Di.pdb
+C:\Users\Bryan\source\repos\Di\Di\bin\Debug\Di.xml
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.Form1.resources
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.Resources.resources
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.vbproj.GenerateResource.cache
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.exe
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.xml
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.pdb
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.Form2.resources
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.vbprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.Form3.resources
+C:\Users\Bryan\source\repos\Di\Di\obj\Debug\Di.Form4.resources
+J:\Descargas\VISUAL 2019\Di\Di\bin\Debug\Di.exe.config
+J:\Descargas\VISUAL 2019\Di\Di\bin\Debug\Di.exe
+J:\Descargas\VISUAL 2019\Di\Di\bin\Debug\Di.pdb
+J:\Descargas\VISUAL 2019\Di\Di\bin\Debug\Di.xml
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.vbprojAssemblyReference.cache
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.Form1.resources
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.Form2.resources
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.Form3.resources
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.Form4.resources
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.Resources.resources
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.vbproj.GenerateResource.cache
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.exe
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.xml
+J:\Descargas\VISUAL 2019\Di\Di\obj\Debug\Di.pdb
