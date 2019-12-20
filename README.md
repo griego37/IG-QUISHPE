@@ -1,4 +1,4 @@
-# PROYECTO CIUDADES
+# PROYECTO DICCIONARIO
 DICCIONARIO
 
 Permite ingresar palabras nuevas, agregar su significado y cargar una imagen que describa la palabra. Se puede visualizar en una lista todas las palabras que contienen el diccionario y eliminar aquellas que sena inecesarias.
